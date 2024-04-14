@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://MUSABBIR-SAGAR-s-workspace-5ovavq.eu-west-1.xata.sh/db/xata-nextjs",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
